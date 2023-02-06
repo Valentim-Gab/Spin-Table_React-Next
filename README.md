@@ -1,11 +1,10 @@
-
-
-## Table that rotates
+# Spin Table using React-Next
+Table that rotates
 
 ```bash
 
-
- Using:
- React + Next
- Prisma + Postgres
+Using: {
+  React: Next;
+  Postgres: Prisma.
+}
 ```
