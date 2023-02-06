@@ -2,9 +2,8 @@
 Table that rotates
 
 ```bash
-
-Using: {
-  React: Next;
-  Postgres: Prisma.
+Using {
+  React + Next;
+  Postgres + Prisma.
 }
 ```
