@@ -7,4 +7,4 @@ Using {
   Postgres + Prisma.
 }
 ```
-Teachings from: @Nirewen
+Teachings from: @Nirewen (Eduardo Londero)
